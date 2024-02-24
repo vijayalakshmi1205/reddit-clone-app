@@ -10,6 +10,12 @@ Step5: write a kubernetes manifest file
   > write Service.yml file
 Step6: Deploy the app to kubernetes & create a service for it
 
+![image](https://github.com/vijayalakshmi1205/reddit-clone-app/assets/144942239/f12b31bd-9cd3-4bb7-9b66-acff3cc1ab62)
+
+
+
+
+
 
 ![Screenshot 2024-02-24 144352](https://github.com/vijayalakshmi1205/reddit-clone-app/assets/144942239/66f927d6-b2b9-460d-a2d5-06910dfa94da)
 
